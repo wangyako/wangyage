@@ -1,0 +1,140 @@
+
+
+#ecshop-top{
+	width:1213px;
+	height:41px;
+	border-bottom: 1px solid #ccc;
+	
+}
+#ecshop-top input{
+	float:right;
+	background:#c43926 ;
+	color:#fff;
+	font-weight: 600;
+	border:0;
+	margin-right: 7px;
+}
+#ecshop-top h1{
+	padding: 7px;
+}
+#ecshop-top h1 a,i{
+	color:#333;
+	font-size: 16px;
+}
+#ecshop-top h1 span{
+	margin-left: 10px;
+}
+#ecshop-top h1 a:hover{
+	color:#da6e12;
+	text-decoration:underline;
+}
+/*以上为ECShop的top部分*/
+
+
+
+
+#search{
+	width:100%;
+	height:30px;
+	background:#f3f3f3;
+	margin-top: 7px;
+}
+#search select{
+	text-align: center;
+}
+#int-t{
+	width:62px;
+	height:26px;
+	background:#ff3f3f;
+	border:0;
+	font-size: 12px;
+}
+#search img{
+	margin-top: 4px;
+	margin-left: 10px;
+	
+}
+#classify{
+	margin-top: 5px;
+	width:158px;
+	height:20px;
+	font-size: 12px;
+}
+#brand{
+	margin-top: 5px;
+	width:105px;
+	height:20px;
+	font-size: 12px;
+}
+#Recommend{
+	margin-top: 5px;
+	width:72px;
+	height:20px;
+	font-size: 12px;
+}
+#grounding{
+	margin-top: 5px;
+	width:48px;
+	height:20px;
+	font-size: 12px;
+}
+#int-o{
+	width:105px;
+	height:22px;
+	margin-top: 4px;
+	font-size: 12px;
+}
+#search span{
+	font-size: 12px;
+	color:#ccc;
+}
+/*以上为搜索栏部分*/
+
+
+
+#choice-tru{
+	width:84px;
+	height:20px;
+	font-size: 12px;
+	margin-left: 10px;
+}
+#int-th{
+	width:62px;
+	height:26px;
+	background:#ff3f3f;
+	color:#fff;
+	border:0;
+	
+}
+
+/*以上为表格部分*/
+
+
+
+#footer{
+	width:100%;
+	height:54px;
+	background:#f3f3f3;
+	border:1px solid #ddd;
+	text-align: center;
+	padding-top: 10px;
+}
+#footer span{
+	font-size: 12px;
+	color:#9CACAF;
+}
+#footer .footer-o{
+	margin-top: 10px;
+	
+}
+/*以上为footer部分*/
+
+
+
+
+
+
+
+
+
+
